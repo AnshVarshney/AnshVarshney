@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AnshVarshney
-- 👀 I’m interested in web development,competitive coding,.
-- 🌱 I’m currently learning data structures and algorithm ,html
+- 👋 Hi, I’m AnshVarshney
+- 👀 I’m enjoying learing Web Development,.
+- 🌱 I’m currently html,css,javascript.
 
 <!---
 AnshVarshney/AnshVarshney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
