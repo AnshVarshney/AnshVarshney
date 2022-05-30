@@ -1,6 +1,7 @@
-- 👋 Hi, I’m AnshVarshney
+- 👋 Hi, I’m Ansh Varshney
 - 👀 I’m enjoying learing Web Development,.
-- 🌱 I’m currently html,css,javascript.
+- 🌱 I’m currently learning javascript.
+- ✨ I am also a 3 star coder at codechef
 
 <!---
 AnshVarshney/AnshVarshney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
