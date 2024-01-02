@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ansh Varshney
-- 👀 I’m enjoying learing Web Development,.
-- 🌱 I’m currently learning javascript.
+- 👀 I’m building projects using Mern Stack,.
+- 🌱 I’m currently exploring Java.
 - ✨ I'm also a 4 star coder at codechef
 - ✨ I'm Specialist at codeforces
 
